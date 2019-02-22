@@ -122,44 +122,6 @@
                 "last_updated": 2018
             }
         ],
-        "http://www.ibm.com": [
-            {
-                "confidence_score": 100,
-                "linkedin_url": "https://www.linkedin.com/company/ibm",
-                "company_name": "International Business Machines Corporation",
-                "country_name": "Poland",
-                "state_name": "New York",
-                "city_name": "Armonk",
-                "postal_code": "10504",
-                "summary": "International Business Machines Corporation operates as an integrated technology and services company worldwide. Its Cognitive Solutions segment offers Watson, a cognitive computing platform that interacts in natural language, processes big data, and learns from interactions with people and computers. This segment also offers data and analytics solutions, including analytics and data management platforms, cloud data services, enterprise social software, talent management solutions, and solutions tailored by industry; and transaction processing software that runs mission-critical systems in banking, airlines, and retail industries. The company's Global Business Services segment offers business consulting services; delivers system integration, application management, maintenance, and support services for packaged software applications; and finance, procurement, talent and engagement, and industry-specific business process outsourcing services. Its Technology Services & Cloud Platforms segment provides cloud, project-based, outsourcing, and other managed services for enterprise IT infrastructure environments. This segment also offers technical support, and software and solution support; and integration software solutions. The company's Systems segment offers servers for businesses, cloud service providers, and scientific computing organizations; data storage products and solutions; and z/OS, an enterprise operating system. Its Global Financing segment provides lease, installment payment plans, and loan financing services; short-term working capital financing to suppliers, distributors, and resellers; and remanufacturing and remarketing services. The company was formerly known as Computing-Tabulating-Recording Co. and changed its name to International Business Machines Corporation in 1924. International Business Machines Corporation was founded in 1911 and is headquartered in Armonk, New York.",
-                "employee_count": 366600,
-                "employee_count_span": "366600-366600",
-                "phone": "914-499-1900",
-                "address_hq": "1 New Orchard Road",
-                "website": "http://www.ibm.com",
-                "industry_linkedin": "Information Technology and Services",
-                "industry_alt": "Information Technology Services",
-                "stock_symbol": "IBM",
-                "stock_exchange": "NYQ",
-                "last_updated": 2019
-            }
-        ],
-        "lateralvision.com.au": [
-            {
-                "confidence_score": 100,
-                "linkedin_url": "https://www.linkedin.com/company/lateralvision",
-                "company_name": "Lateral Vision",
-                "country_name": "Australia",
-                "city_name": "Clovelly Park",
-                "postal_code": "5042",
-                "employee_count": 10,
-                "employee_count_span": "1-10",
-                "address_hq": "6 MAB Eastern Promenade, Clovelly Park SA 5042, Australia",
-                "website": "http://lateralvision.com.au",
-                "founded_date": "2014",
-                "last_updated": 2018
-            }
-        ],
         "http://cleveradvice.com.au/": [],
         "http://www.cricketcentre.com.au/": [
             {
