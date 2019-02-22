@@ -43,43 +43,6 @@
                 "last_updated": 2018
             }
         ],
-        "linkedin.com": [
-            {
-                "confidence_score": 100,
-                "linkedin_url": "https://www.linkedin.com/company/linkedin",
-                "company_name": "LinkedIn: Jobs",
-                "country_name": "United States",
-                "state_name": "California",
-                "city_name": "Mountain View",
-                "postal_code": "94043",
-                "summary": "Connecting the world's professionals to make them more productive and successful.\r\n\r\nFounded in 2003, LinkedIn connects the world's professionals to make them more productive and successful. With more than 450 million members worldwide, including executives from every Fortune 500 company, LinkedIn is the world's largest professional network on the Internet. The company has a diversified business model with revenue coming from Talent Solutions, Marketing Solutions, and Premium Subscriptions products. Headquartered in Silicon Valley, LinkedIn has offices across the globe.",
-                "employee_count": 10001,
-                "employee_count_span": "10001-10001",
-                "address_hq": "Mountain View, CA United States",
-                "website": "http://linkedin.com",
-                "industry_linkedin": "Internet",
-                "founded_date": "2003",
-                "last_updated": 2019
-            },
-            {
-                "confidence_score": 100,
-                "linkedin_url": "https://www.linkedin.com/company/linkedin-china",
-                "company_name": "LinkedIn China 领英中国",
-                "country_name": "China",
-                "state_name": "北京市",
-                "city_name": "朝阳区",
-                "postal_code": "100020",
-                "summary": "LinkedIn（领英）是全球最大的职业社交网站，于 2003 年 5 月 5 日正式上线，目前用户人数超过4亿，覆盖全球 200 多个国家，拥有 23 种官方语言 版本。领英的使命是连接全球职场人士，使他们事半功倍，发挥所长；更长远的愿景则是为全球33 亿劳动力创造商业机会，进而创建世界首个经济图谱。 \r\n\r\n领英为会员提供的核心价值包括：职业身份、知识洞察、商业机会。在这个职业社交网络平台上，每天产生 4500 多万简历浏览，每年发生 57 亿次职业搜索。450 位全球最具影响力的思想领袖作为领英的“影响力人物”在此独家分享知识、经验和洞察。来自 140 个行业的 400 多万家公司已在领英上建立了主页。 \r\n\r\n领英为企业和机构提供包括招聘、市场和销售在内的一系列解决方案。领英拥有多元化经营模式，主要收入来自于为客户所提供的征才、营销解决方案及高级帐户。 \r\n\r\n领英由美国著名投资家和创业者里德·霍夫曼（Reid Hoffman）先生创办，公司总部位于美国加州硅谷，在全世界 30 个城市开设办公室，拥有 6,000 多名员工。领英于 2011 年 5 月在纽约证券交易所上市。 \r\n\r\n为了更好地连接中国职场人士，为其提供全球化平台，助力他们实现职业理想，2014 年 1 月，领英宣布正式进入中国，2 月 25 日，简体中文测试版上线，并正式启用中文名称 – “领英”。 领英在中国与红杉资本和宽带资本成立了合资公司，共同探索和开展在华业务，努力为中国用户提供更好的本地化产品和服务。",
-                "employee_count": 10001,
-                "employee_count_span": "10001-10001",
-                "address_hq": "东三环北路27号嘉铭中心B座11层 朝阳区, 北京市 100020 China",
-                "website": "http://www.linkedin",
-                "industry_linkedin": "Internet",
-                "founded_date": "2014",
-                "specialities": "线社交,位,人索,司索,讯,广,身份,",
-                "last_updated": 2019
-            }
-        ],
         "apple.com": [
             {
                 "confidence_score": 100,
