@@ -1,0 +1,199 @@
+{
+    "request": {
+        "job_type": "company_query",
+        "task": "website_to_company",
+        "cost": 2.01,
+        "api_version_max": 2,
+        "api_version": 2,
+        "domain_count": 1
+    },
+    "results": {
+        "vocus.com.au": [
+            {
+                "confidence_score": 100,
+                "linkedin_url": "https://www.linkedin.com/company/firstpath-australia",
+                "company_name": "FirstPath",
+                "country_name": "Australia",
+                "state_name": "NSW",
+                "city_name": "North Sydney",
+                "postal_code": "2060",
+                "summary": "Vocus Communications is an ASX listed leading telecommunications provider of data centre, wholesale voice, peering and international Internet connectivity to telecommunications companies and ISPs across Australia, NZ and the US. The company provides high performance, high availability, and highly scalable communications solutions, which allow service providers to quickly and easily deploy new services for their own customer base.",
+                "employee_count": 200,
+                "employee_count_span": "51-200",
+                "address_hq": "Level 12, 60 Miller Street North Sydney, NSW 2060 Australia",
+                "website": "http://www.vocus.com.au",
+                "industry_linkedin": "Telecommunications",
+                "founded_date": "2008"
+            },
+            {
+                "confidence_score": 100,
+                "linkedin_url": "https://www.linkedin.com/company/m2-telecommunications-group-ltd",
+                "company_name": "M2 Group Ltd",
+                "country_name": "Australia",
+                "state_name": "VIC",
+                "city_name": "Melbourne",
+                "postal_code": "3000",
+                "summary": "February 2016 the M2 Group merged with Vocus Communications\r\n\r\nFollow us on the Vocus page for the latest company information\r\n\r\nhttps://www.linkedin.com/company/vocus-communications",
+                "employee_count": 10,
+                "employee_count_span": "1-10",
+                "address_hq": "Flinders St Melbourne, VIC 3000 Australia",
+                "website": "http://www.vocus.com.au",
+                "industry_linkedin": "Telecommunications",
+                "founded_date": "1999",
+                "last_updated": 2018
+            }
+        ],
+        "linkedin.com": [
+            {
+                "confidence_score": 100,
+                "linkedin_url": "https://www.linkedin.com/company/linkedin",
+                "company_name": "LinkedIn: Jobs",
+                "country_name": "United States",
+                "state_name": "California",
+                "city_name": "Mountain View",
+                "postal_code": "94043",
+                "summary": "Connecting the world's professionals to make them more productive and successful.\r\n\r\nFounded in 2003, LinkedIn connects the world's professionals to make them more productive and successful. With more than 450 million members worldwide, including executives from every Fortune 500 company, LinkedIn is the world's largest professional network on the Internet. The company has a diversified business model with revenue coming from Talent Solutions, Marketing Solutions, and Premium Subscriptions products. Headquartered in Silicon Valley, LinkedIn has offices across the globe.",
+                "employee_count": 10001,
+                "employee_count_span": "10001-10001",
+                "address_hq": "Mountain View, CA United States",
+                "website": "http://linkedin.com",
+                "industry_linkedin": "Internet",
+                "founded_date": "2003",
+                "last_updated": 2019
+            },
+            {
+                "confidence_score": 100,
+                "linkedin_url": "https://www.linkedin.com/company/linkedin-china",
+                "company_name": "LinkedIn China 领英中国",
+                "country_name": "China",
+                "state_name": "北京市",
+                "city_name": "朝阳区",
+                "postal_code": "100020",
+                "summary": "LinkedIn（领英）是全球最大的职业社交网站，于 2003 年 5 月 5 日正式上线，目前用户人数超过4亿，覆盖全球 200 多个国家，拥有 23 种官方语言 版本。领英的使命是连接全球职场人士，使他们事半功倍，发挥所长；更长远的愿景则是为全球33 亿劳动力创造商业机会，进而创建世界首个经济图谱。 \r\n\r\n领英为会员提供的核心价值包括：职业身份、知识洞察、商业机会。在这个职业社交网络平台上，每天产生 4500 多万简历浏览，每年发生 57 亿次职业搜索。450 位全球最具影响力的思想领袖作为领英的“影响力人物”在此独家分享知识、经验和洞察。来自 140 个行业的 400 多万家公司已在领英上建立了主页。 \r\n\r\n领英为企业和机构提供包括招聘、市场和销售在内的一系列解决方案。领英拥有多元化经营模式，主要收入来自于为客户所提供的征才、营销解决方案及高级帐户。 \r\n\r\n领英由美国著名投资家和创业者里德·霍夫曼（Reid Hoffman）先生创办，公司总部位于美国加州硅谷，在全世界 30 个城市开设办公室，拥有 6,000 多名员工。领英于 2011 年 5 月在纽约证券交易所上市。 \r\n\r\n为了更好地连接中国职场人士，为其提供全球化平台，助力他们实现职业理想，2014 年 1 月，领英宣布正式进入中国，2 月 25 日，简体中文测试版上线，并正式启用中文名称 – “领英”。 领英在中国与红杉资本和宽带资本成立了合资公司，共同探索和开展在华业务，努力为中国用户提供更好的本地化产品和服务。",
+                "employee_count": 10001,
+                "employee_count_span": "10001-10001",
+                "address_hq": "东三环北路27号嘉铭中心B座11层 朝阳区, 北京市 100020 China",
+                "website": "http://www.linkedin",
+                "industry_linkedin": "Internet",
+                "founded_date": "2014",
+                "specialities": "线社交,位,人索,司索,讯,广,身份,",
+                "last_updated": 2019
+            }
+        ],
+        "apple.com": [
+            {
+                "confidence_score": 100,
+                "linkedin_url": "https://www.linkedin.com/company/apple",
+                "company_name": "Apple Inc.",
+                "country_name": "United States",
+                "state_name": "California",
+                "city_name": "Cupertino",
+                "postal_code": "95014",
+                "summary": "Apple Inc. designs, manufactures, and markets mobile communication and media devices, and personal computers. It also sells various related software, services, accessories, and third-party digital content and applications. The company offers iPhone, a line of smartphones; iPad, a line of multi-purpose tablets; and Mac, a line of desktop and portable personal computers, as well as iOS, macOS, watchOS, and tvOS operating systems. It also provides iTunes Store, an app store that allows customers to purchase and download, or stream music and TV shows; rent or purchase movies; and download free podcasts, as well as iCloud, a cloud service, which stores music, photos, contacts, calendars, mail, documents, and others. In addition, the company offers AppleCare support services; Apple Pay, a cashless payment service; Apple TV that connects to consumers' TVs and enables them to access digital content directly for streaming video, playing music and games, and viewing photos; and Apple Watch, a personal electronic device, as well as AirPods, Beats products, HomePod, iPod touch, and other Apple-branded and third-party accessories. The company serves consumers, and small and mid-sized businesses; and education, enterprise, and government customers worldwide. It sells and delivers digital content and applications through the iTunes Store, App Store, Mac App Store, TV App Store, Book Store, and Apple Music. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers, wholesalers, retailers, and resellers. Apple Inc. was founded in 1977 and is headquartered in Cupertino, California.",
+                "employee_count": 132000,
+                "employee_count_span": "132000-132000",
+                "phone": "408-996-1010",
+                "address_hq": "One Apple Park Way",
+                "website": "http://www.apple.com",
+                "industry_linkedin": "Consumer Electronics",
+                "industry_alt": "Consumer Electronics",
+                "founded_date": "1976",
+                "stock_symbol": "AAPL",
+                "stock_exchange": "NMS",
+                "last_updated": 2019
+            },
+            {
+                "confidence_score": 100,
+                "linkedin_url": "https://www.linkedin.com/company/apple-inc",
+                "company_name": "Apple Inc.",
+                "country_name": "United States",
+                "state_name": "CA",
+                "city_name": "Cupertino",
+                "postal_code": "95014",
+                "summary": "Apple Inc. designs, manufactures, and markets mobile communication and media devices, and personal computers. It also sells various related software, services, accessories, and third-party digital content and applications. The company offers iPhone, a line of smartphones; iPad, a line of multi-purpose tablets; and Mac, a line of desktop and portable personal computers, as well as iOS, macOS, watchOS, and tvOS operating systems. It also provides iTunes Store, an app store that allows customers to purchase and download, or stream music and TV shows; rent or purchase movies; and download free podcasts, as well as iCloud, a cloud service, which stores music, photos, contacts, calendars, mail, documents, and others. In addition, the company offers AppleCare support services; Apple Pay, a cashless payment service; Apple TV that connects to consumers' TVs and enables them to access digital content directly for streaming video, playing music and games, and viewing photos; and Apple Watch, a personal electronic device, as well as AirPods, Beats products, HomePod, iPod touch, and other Apple-branded and third-party accessories. The company serves consumers, and small and mid-sized businesses; and education, enterprise, and government customers worldwide. It sells and delivers digital content and applications through the iTunes Store, App Store, Mac App Store, TV App Store, Book Store, and Apple Music. The company also sells its products through its retail and online stores, and direct sales force; and third-party cellular network carriers, wholesalers, retailers, and resellers. Apple Inc. was founded in 1977 and is headquartered in Cupertino, California.",
+                "employee_count": 132000,
+                "employee_count_span": "132000-132000",
+                "phone": "408-996-1010",
+                "address_hq": "One Apple Park Way",
+                "website": "http://www.apple.com",
+                "industry_alt": "Consumer Electronics",
+                "stock_symbol": "AAPL",
+                "stock_exchange": "NMS",
+                "last_updated": 2018
+            }
+        ],
+        "http://www.ibm.com": [
+            {
+                "confidence_score": 100,
+                "linkedin_url": "https://www.linkedin.com/company/ibm",
+                "company_name": "International Business Machines Corporation",
+                "country_name": "Poland",
+                "state_name": "New York",
+                "city_name": "Armonk",
+                "postal_code": "10504",
+                "summary": "International Business Machines Corporation operates as an integrated technology and services company worldwide. Its Cognitive Solutions segment offers Watson, a cognitive computing platform that interacts in natural language, processes big data, and learns from interactions with people and computers. This segment also offers data and analytics solutions, including analytics and data management platforms, cloud data services, enterprise social software, talent management solutions, and solutions tailored by industry; and transaction processing software that runs mission-critical systems in banking, airlines, and retail industries. The company's Global Business Services segment offers business consulting services; delivers system integration, application management, maintenance, and support services for packaged software applications; and finance, procurement, talent and engagement, and industry-specific business process outsourcing services. Its Technology Services & Cloud Platforms segment provides cloud, project-based, outsourcing, and other managed services for enterprise IT infrastructure environments. This segment also offers technical support, and software and solution support; and integration software solutions. The company's Systems segment offers servers for businesses, cloud service providers, and scientific computing organizations; data storage products and solutions; and z/OS, an enterprise operating system. Its Global Financing segment provides lease, installment payment plans, and loan financing services; short-term working capital financing to suppliers, distributors, and resellers; and remanufacturing and remarketing services. The company was formerly known as Computing-Tabulating-Recording Co. and changed its name to International Business Machines Corporation in 1924. International Business Machines Corporation was founded in 1911 and is headquartered in Armonk, New York.",
+                "employee_count": 366600,
+                "employee_count_span": "366600-366600",
+                "phone": "914-499-1900",
+                "address_hq": "1 New Orchard Road",
+                "website": "http://www.ibm.com",
+                "industry_linkedin": "Information Technology and Services",
+                "industry_alt": "Information Technology Services",
+                "stock_symbol": "IBM",
+                "stock_exchange": "NYQ",
+                "last_updated": 2019
+            }
+        ],
+        "lateralvision.com.au": [
+            {
+                "confidence_score": 100,
+                "linkedin_url": "https://www.linkedin.com/company/lateralvision",
+                "company_name": "Lateral Vision",
+                "country_name": "Australia",
+                "city_name": "Clovelly Park",
+                "postal_code": "5042",
+                "employee_count": 10,
+                "employee_count_span": "1-10",
+                "address_hq": "6 MAB Eastern Promenade, Clovelly Park SA 5042, Australia",
+                "website": "http://lateralvision.com.au",
+                "founded_date": "2014",
+                "last_updated": 2018
+            }
+        ],
+        "http://cleveradvice.com.au/": [],
+        "http://www.cricketcentre.com.au/": [
+            {
+                "confidence_score": 100,
+                "linkedin_url": "https://www.linkedin.com/company/greg-chappell-cricket-centre",
+                "company_name": "Greg Chappell Cricket Centre",
+                "country_name": "Australia",
+                "state_name": "QLD",
+                "city_name": "Brisbane",
+                "postal_code": "4010",
+                "summary": "Originally from Brisbane, the Greg Chappell Cricket Centre is a cricket retail business founded in 1973. Today, the Cricket Centre has 9 Australian locations in 5 major cities. Our international and rural customers view and purchase from our huge range online or order directly from our annual catalogue.\r\n\r\nHere at the Cricket Centre we love the history, technology and effort that goes into every piece of cricket equipment. This labor of love drives us to constantly be on the look out for the next big thing. Whenever we find it, expect it to appear here and in our constantly updated online store\r\n\r\nwww.cricketcentre.com.au\r\ntwitter.com/gccricketcentre\r\nfacebook.com/gccricketcentre",
+                "employee_count": 200,
+                "employee_count_span": "51-200",
+                "address_hq": "30 Crosby Rd, Albion 4010 Brisbane, QLD 4010 Australia",
+                "website": "http://www.cricketcentre.com.au",
+                "industry_linkedin": "Sporting Goods",
+                "founded_date": "1977",
+                "specialities": "Cricket,Cricket Equipment,Custom Clothing,Custom Clothing. See more See less Employees at Greg Chappell Cricket Centre. Steven Gibbs Marketing Manager View profile; Andrew Gibbs Business Development and Marketing Manager View profile;"
+            }
+        ],
+        "http://www.jetfox.com.au/": [
+            {
+                "confidence_score": 100,
+                "linkedin_url": "https://www.linkedin.com/company/jetfox",
+                "company_name": "Jetfox",
+                "country_name": "Australia",
+                "state_name": "South Australia",
+                "city_name": "Edwardstown",
+                "postal_code": "5039",
+                "summary": "",
+                "address_hq": "2/1 Lindfield Ave Edwardstown, South Australia 5039 Australia",
+                "website": "http://jetfox.com.au",
+                "industry_linkedin": ""
+            }
+        ]
+    }
+}
